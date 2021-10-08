@@ -1,0 +1,59 @@
+Total Number of Users, 8
+Total Number of Tasks, 7
+
+User, admin
+Total number of admin tasks, 2
+Completed tasks %, 0.0
+Uncompleted tasks %, 0.0
+Overdue tasks %, 100.0
+% Of tasks assigned, 28.57
+
+User, dare
+Total number of dare tasks, 1
+Completed tasks %, 0.0
+Uncompleted tasks %, 0.0
+Overdue tasks %, 100.0
+% Of tasks assigned, 14.29
+
+User, for
+Total number of for tasks, 0
+Completed tasks %, 0.0
+Uncompleted tasks %, 0.0
+Overdue tasks %, 0.0
+% Of tasks assigned, 0.0
+
+User, soji
+Total number of soji tasks, 1
+Completed tasks %, 100.0
+Uncompleted tasks %, 0.0
+Overdue tasks %, 0.0
+% Of tasks assigned, 14.29
+
+User, dayo
+Total number of dayo tasks, 2
+Completed tasks %, 100.0
+Uncompleted tasks %, 0.0
+Overdue tasks %, 0.0
+% Of tasks assigned, 28.57
+
+User, test
+Total number of test tasks, 0
+Completed tasks %, 0.0
+Uncompleted tasks %, 0.0
+Overdue tasks %, 0.0
+% Of tasks assigned, 0.0
+
+User, slickrule
+Total number of slickrule tasks, 0
+Completed tasks %, 0.0
+Uncompleted tasks %, 0.0
+Overdue tasks %, 0.0
+% Of tasks assigned, 0.0
+
+User, dirk
+Total number of dirk tasks, 1
+Completed tasks %, 100.0
+Uncompleted tasks %, 0.0
+Overdue tasks %, 0.0
+% Of tasks assigned, 14.29
+

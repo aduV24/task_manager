@@ -1,0 +1,7 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+dare, Clear the trash, Take out the trash, 05 Aug 2021, 21 Oct 2020, No
+dayo, Drive to school, Please takem my kids to school, 21 Nov 2020, 25 Aug 2021, Yes
+dayo, Come over, Please come over to fix my bulbs, 05 Aug 2021, 21 Aug 2021, Yes
+dirk, come, Come take some food, 05 Aug 2021, 30 Oct 2021, Yes
+soji, Bring my meal, take my meal home, 18 Aug 2021, 01 Dec 2022, Yes
